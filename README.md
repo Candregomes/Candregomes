@@ -2,8 +2,8 @@
 
 - 🌱 Estudando Python
 - 📫 Contate-me no email: candre.gomess@gmail.com
-- 😄 Pronouns: ele/dedle
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: While they are hibernating, bears do not urinate. Their bodies convert waste into protein.
 
 <div align="center">
   <a href="https://github.com/Candregomes">
